@@ -1,4 +1,4 @@
-## Hi there, My name is Joaquín Manteca 👋
+## Hi, I'm Joaquín 👋
 
 <!--
 **Jmanteca/Jmanteca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
