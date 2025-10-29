@@ -12,3 +12,8 @@ I’m passionate about building efficient solutions and learning continuously.
 ### Where to find me
 
 -(Linkedin)(https://www.linkedin.com/in/jmanteca/)
+
+### Contact me
+
+mantecajoaquin@gmail.com  
+(+34) 681-881-747
